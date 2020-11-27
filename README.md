@@ -22,3 +22,5 @@ It also has support for sass, file imports and autoprefixing of your compiled cs
 If you notice any issue or want to contribute to this repository, just fork and create a PR
 
 [let's tweet](https://twitter.com/jude_ojini)
+
+https://www.digitalocean.com/community/tutorials/settingup-reactjs-using-webpack-4-and-babel-7-the-definitive-guide#step-1-%E2%80%94-setting-up-the-project
